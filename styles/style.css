@@ -95,7 +95,7 @@ ol {
   outline: 1px solid #fff;
   outline-offset: 1px;
 }
-.search-form__label:hover .search-form__label-text{
+.search-form__label:hover .search-form__label-text {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
